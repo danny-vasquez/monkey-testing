@@ -31,3 +31,6 @@ Este proyecto implementa pruebas automatizadas de monkey-testing utilizando Play
     ```
     npx playwright test monkey.spec.js --headed
     ```
+
+## Visualización de reportes:
+Después de ejecutar las pruebas, en la carpeta playwright-report se generará un reporte index.html con los resultados de las pruebas. Puede abrirse con cualquier navegador web o utilizando Live Server en Visual Studio Code.
